@@ -102,8 +102,8 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+title: "PATERSON-MD",
+thumbnailUrl: "https://files.catbox.moe/th4ctx.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -138,7 +138,7 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "PATERSON-MD",
 thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20",
 mediaType: 2,
