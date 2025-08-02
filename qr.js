@@ -83,7 +83,7 @@ Thanks for using *PATERSON-MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel
-
+https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
@@ -99,7 +99,7 @@ contextInfo: {
 externalAdReply: {
 title: "PATERSON-MD 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -119,11 +119,11 @@ Thanks for using *PATERSON-MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/PATERSON-MD/PATERSON-MD
 
 > *© Powered by Kervens*
 Stay cool and hack smart. ✌🏻*`;
@@ -133,7 +133,7 @@ contextInfo: {
 externalAdReply: {
 title: "PATERSON-MD 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
