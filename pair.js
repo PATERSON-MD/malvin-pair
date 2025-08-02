@@ -79,7 +79,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hey there,PATERSON-MD User!* 👋🏻
 
-Thanks for using *PATERSON-MD* — your session has been successfully created!
+Thanks for using my bot — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -115,7 +115,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `Hey there, User!* 👋🏻
 
-Thanks for using *PATERSON-MD* — your session has been successfully created!
+Thanks for using my bot — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
