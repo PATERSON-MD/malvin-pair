@@ -1,25 +1,20 @@
 {
-"name": "web-pair",
-    "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
-    "main": "index.js",
-    "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name malvin-xd",
-      "stop": "pm2 stop malvin-xd",
-     "restart": "pm2 restart malvin-xd"
-    },
+  "name": "paterson-md",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Solution",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js"
+  },
   "dependencies": {
-   "@whiskeysockets/baileys": "^6.7.17",          
-    "@adiwajshing/keyed-db": "^0.2.4",
-    "qrcode": "^1.5.3",
-    "awesome-phonenumber": "^2.64.0",
-    "pino": "^8.1.0",
-    "phone" : "3.1.30",
-    "body-parser": "^1.20.1",
-    "express": "^4.18.1",
-    "path": "^0.12.7",
-    "megajs": "1.1.7",
-    "pm2": "^5.4.0",
-    "async-mutex":"0.4.1"
-   }
+    "@whiskeysockets/baileys": "^6.2.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "pino": "^8.16.0",
+    "pino-pretty": "^10.2.3"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
 }
