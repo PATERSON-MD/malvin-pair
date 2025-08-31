@@ -16,6 +16,9 @@ RUN npm install && npm install -g qrcode-terminal pm2
 
 COPY . .
 
+# Ajoutez cette ligne pour vérifier si le fichier existe
+RUN ls -la routes/ || echo "Dossier routes/ non trouvé"
+
 EXPOSE 5000
 
 CMD ["npm", "start"]
