@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const router = express.Router();
 const { DisconnectReason } = require('@whiskeysockets/baileys');
-const logger = require('./logger'); // Logger personnalisé intégré
+const logger = require('../logger'); // ✅ CHEMIN CORRIGÉ
 
 // Configuration
 const TEMP_DIR = path.join(__dirname, 'temp');
