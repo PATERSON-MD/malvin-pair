@@ -1,4 +1,4 @@
-FROM node:lts-bookworm  # Utilise Debian Bookworm au lieu de Buster
+FROM node:lts-bookworm
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
